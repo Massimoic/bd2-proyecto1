@@ -1,5 +1,5 @@
 //
-// Created by Massimo on 30-May-21.
+// Created by Massimo.
 //
 
 #ifndef DB2_PROJECT1_ISAM_H
