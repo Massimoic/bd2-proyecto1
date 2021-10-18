@@ -1,6 +1,3 @@
-//
-// Created by Sebastian Knell on 1/06/21.
-//
 
 #ifndef DB2_PROJECT1_MENU_H
 #define DB2_PROJECT1_MENU_H
