@@ -1,6 +1,3 @@
-//
-// Created by Sebastian Knell on 25/05/21.
-//
 
 #include "Tester.h"
 
