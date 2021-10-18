@@ -1,8 +1,8 @@
 # Base de Datos 2 - Proyecto 1
 ### Integrantes
-- Anthony Guimarey Saavedra
 - Massimo Imparato Conetta
-- Sebastian Knell Noriega
+- David Soto Aguirre
+- Brhandon Gutierrez Soto
 
 ## Índice
   - [Introducción](#introducción)
@@ -345,7 +345,7 @@ bool ISAM::remove(int id) {
 ## Prueba de uso
 Se adjunta el siguiente video que muestra la funcionalidad de la aplicación.
 
-[DB2 - Proyecto 1 - Sequential File & ISAM Structures](https://www.youtube.com/watch?v=bifs8Qo_C_Y)
+[DB2 - Proyecto 1 - Sequential File & ISAM Structures]
 
 ## Anexos
 - Descripcion de los campos en los registros del conjunto de datos
