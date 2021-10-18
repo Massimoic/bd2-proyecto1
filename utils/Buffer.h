@@ -1,6 +1,3 @@
-//
-// Created by Sebastian Knell on 23/05/21.
-//
 
 #ifndef DB2_PROJECT1_BUFFER_H
 #define DB2_PROJECT1_BUFFER_H
