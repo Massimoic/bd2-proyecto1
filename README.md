@@ -1,5 +1,5 @@
 # db2-project1
 ## Integrantes
-- Sebastian Knell Noriega 
-- Massimo Imparato Conetta
-- Anthony Guimarey Saavedra
+- Massimo Imparato Conetta 
+- David Soto Aguirre
+- Brhandon Gutierrez Soto
