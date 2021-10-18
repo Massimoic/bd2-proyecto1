@@ -1,6 +1,3 @@
-//
-// Created by Sebastian Knell on 1/06/21.
-//
 
 #include "Menu.h"
 #include <chrono>
