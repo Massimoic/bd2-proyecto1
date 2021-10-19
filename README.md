@@ -345,7 +345,7 @@ bool ISAM::remove(int id) {
 ## Prueba de uso
 Se adjunta el siguiente video que muestra la funcionalidad de la aplicación.
 
-[DB2 - Proyecto 1 - Sequential File & ISAM Structures](https://www.youtube.com/watch?v=bifs8Qo_C_Y)
+[DB2 - Proyecto 1 - Sequential File & ISAM Structures](https://drive.google.com/file/d/1LazBi0zgCFgprIfdtcPJTom0vNSifRED/view?usp=sharing)
 
 ## Anexos
 - Descripcion de los campos en los registros del conjunto de datos
